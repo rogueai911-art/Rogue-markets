@@ -1,1 +1,0 @@
-export default function Loading(){return <main style={{minHeight:'100vh',display:'grid',placeItems:'center',background:'#020604',color:'#7dff55',fontFamily:'ui-monospace,monospace'}}><div><div style={{fontSize:28,fontWeight:900,letterSpacing:6}}>ROGUE AI</div><div style={{marginTop:10,opacity:.65,fontSize:11,letterSpacing:2}}>INITIALIZING MARKET OS…</div></div></main>}
